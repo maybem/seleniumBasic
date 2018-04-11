@@ -3,4 +3,4 @@ seleniumBasic/
 
 grf
 
-18.42
+18.47
